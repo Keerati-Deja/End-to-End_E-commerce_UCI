@@ -1,1 +1,1 @@
-# e-commerce_Workshop
+# End-to-End E-commerce Project - Data Analytics & Data Engineering
